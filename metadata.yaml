@@ -18,6 +18,9 @@ contributor:
     gutenberg_agent_id: '3385'
     url: http://www.gutenberg.org/2009/agents/3385
     wikipedia: https://en.wikipedia.org/wiki/Thomas_Taylor_%28neoplatonist%29
+covers:
+- cover_type: archival
+  image_path: 72815-h/images/cover.jpg
 creator:
   author:
     agent_name: Iamblichus
@@ -32,6 +35,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52368
     wikipedia: https://en.wikipedia.org/wiki/Iamblichus
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72815#Iamblichus-on-the-mysteries-of-the-Egyptians-Chaldeans-and-Assyrians
 gutenberg_issued: '2024-01-29'
 gutenberg_type: Text
 identifiers:
